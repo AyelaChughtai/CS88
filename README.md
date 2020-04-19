@@ -1,4 +1,4 @@
-# CS88
+# CS88: Computational Structures for Data Science
 
 # Homeworks
 
