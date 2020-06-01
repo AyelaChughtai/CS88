@@ -52,6 +52,6 @@ Lab11: Iterators, Generators, and SQL
 
 # Projects
 
-Project1: Maps
+Project1: Maps (A visualization/Voronoi diagram of restaurant ratings using machine learning and the Yelp academic dataset.)
 
-Project2: Ants
+Project2: Ants (A tower defense game called Ants Vs. SomeBees.)
